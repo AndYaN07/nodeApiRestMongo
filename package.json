@@ -1,0 +1,24 @@
+{
+  "name": "hpapi",
+  "version": "1.0.0",
+  "description": "Api para proyecto nº5 de master prometeo.",
+  "homepage": "https://github.com/AndYaN07/nodeApiRestMongo#readme",
+  "bugs": {
+    "url": "https://github.com/AndYaN07/nodeApiRestMongo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndYaN07/nodeApiRestMongo.git"
+  },
+  "license": "ISC",
+  "author": "Anderson Guanche",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.9.1"
+  }
+}
