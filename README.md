@@ -1,6 +1,6 @@
-# Movies API
+# Harry Potter API
 
-API REST para gestionar películas.
+API REST inspirada en el universo de **Harry Potter**.
 
 ## Tecnologías
 
@@ -12,3 +12,5 @@ API REST para gestionar películas.
 ## Estado
 
 🚧 Proyecto en desarrollo.
+
+La estructura de la API, los endpoints y las funcionalidades todavía están por definir.
